@@ -532,6 +532,11 @@ task-document-management/
 │       ├── tasks.js
 │       └── documents.js
 │
+│
+├──docs/
+│   ├── Architecture.png
+│   ├── Task_document_Management_Aws.pdf
+│
 ├── database/
 │   └── database_setup.sql
 │
